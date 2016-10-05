@@ -11,7 +11,6 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 # cd
----
 The `cd` command in terminal stands for change directory. It is used to change where in the terminal you are. For example:
 `cd Desktop/`
 
